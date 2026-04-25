@@ -26,7 +26,7 @@
     },
     {
       "id": "test.simple.dicta",
-      "base_url": "http://test.millenniummarket.ru/apps/simple.dicta/",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.dicta/",
       "title": "SimpleDictaphone (Test)",
       "screenshots": ["1.png", "2.png", "3.png"],
       "author": "test author",
@@ -35,11 +35,11 @@
       "size": "7.6 MB",
       "category": "tools",
       "version": "1.2 SGU1",
-      "download_url": "http://millenniummarket.ru/apps/simple.dicta/SimpleDictaphone_Release_AnyCPU.xap"
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.dicta/SimpleDictaphone_Release_AnyCPU.xap"
     },
     {
       "id": "test.simple.tasks",
-      "base_url": "http://test.millenniummarket.ru/apps/simple.tasks/",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.tasks/",
       "title": "SimpleTasks (Test)",
       "screenshots": [],
       "author": "test author",
@@ -48,7 +48,7 @@
       "size": "7.6 MB",
       "category": "tools",
       "version": "1.0 Release",
-      "download_url": "http://millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
     }
   ]
 }
