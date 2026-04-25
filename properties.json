@@ -10,7 +10,7 @@
       "screenshots": ["screenshot1.png", "screenshot2.png"],
       "author": "test author",
       "description": "test description",
-      "icon_url": "logo.png",
+      "icon_url": "logo.jpg",
       "size": "0,1 MB",
       "category": "notes",
       "versions": [
@@ -31,7 +31,7 @@
       "screenshots": ["1.png", "2.png", "3.png"],
       "author": "test author",
       "description": "test description",
-      "icon_url": "logo.png",
+      "icon_url": "logo.jpg",
       "size": "7.6 MB",
       "category": "tools",
       "version": "1.2 SGU1",
