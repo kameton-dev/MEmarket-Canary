@@ -1,11 +1,11 @@
 {
   "repo_name": "MEmarket canary",
   "creator": "kameton.dev",
-  "last_updated": "22-04-2026",
+  "last_updated": "25.04.2026",
   "apps": [
     {
       "id": "test.simple.notes",
-      "base_url": "http://test.millenniummarket.ru/apps/simple.notes/",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.notes/",
       "title": "SimpleNotes (test)",
       "screenshots": ["screenshot1.png", "screenshot2.png"],
       "author": "test author",
@@ -16,26 +16,26 @@
       "versions": [
         {
             "version": "1.0 WinRT",
-            "download_url": "http://test.millenniummarket.ru/apps/simple.notes/"
+            "download_url": "http://canary.millenniummarket.ru/apps/simple.notes/SimpleNotes_WinR_1-0.appx"
         },
         {
             "version": "1.1 SGU1",
-            "download_url": "http://test.millenniummarket.ru/apps/simple.notes/"
+            "download_url": "http://canary.millenniummarket.ru/apps/simple.notes/SimpleNotes_1-1-SGU1_RU.xap"
         }
       ]
     },
     {
-      "id": "test.8net.aito",
-      "base_url": "http://test.millenniummarket.ru/apps/simple.notes/",
-      "title": "Aito Browser (Test)",
-      "screenshots": "",
-      "author": "ChockingNetDude",
-      "description": "Современный браузер для WindowsPhone 8.1 на базе MetroSurf.",
+      "id": "test.simple.dicta",
+      "base_url": "http://test.millenniummarket.ru/apps/simple.dicta/",
+      "title": "SimpleDictaphone (Test)",
+      "screenshots": ["1.png", "2.png", "3.png"],
+      "author": "test author",
+      "description": "test description",
       "icon_url": "logo.png",
       "size": "7.6 MB",
       "category": "tools",
-      "version": "V3",
-      "download_url": "http://millenniummarket.ru/apps/8net.aito/AitoBrowser.xap"
+      "version": "1.2 SGU1",
+      "download_url": "http://millenniummarket.ru/apps/simple.dicta/SimpleDictaphone_Release_AnyCPU.xap"
     }
   ]
 }
