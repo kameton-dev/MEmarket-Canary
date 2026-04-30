@@ -49,6 +49,71 @@
       "category": "tools",
       "version": "1.0 Release",
       "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
+    },
+    {
+      "id": "onelive.store",
+      "base_url": "http://canary.millenniummarket.ru/apps/onelive.store/",
+      "title": "Live Store (Test)",
+      "screenshots": [],
+      "author": "OneLive",
+      "description": "Альтернативный магазин приложений. Не работает на территории РФ",
+      "icon_url": "logo.png",
+      "size": "0.8 MB",
+      "category": "store",
+      "version": "1.4.0.0",
+      "download_url": "http://canary.millenniummarket.ru/apps/onelive.store/livestore_1-4-0-0.xap"
+    },
+    {
+      "id": "test.healthfit.app",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.tasks/",
+      "title": "Здоровье + фитнес (Test)",
+      "screenshots": [],
+      "author": "test author",
+      "description": "test description",
+      "icon_url": "loggo.jpg",
+      "size": "7.6 MB",
+      "category": "heath+fitness",
+      "version": "1.0 Release",
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
+    },
+    {
+      "id": "test.photo.app",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.tasks/",
+      "title": "Фото (Test)",
+      "screenshots": [],
+      "author": "test author",
+      "description": "test description",
+      "icon_url": "loggo.jpg",
+      "size": "7.6 MB",
+      "category": "photo",
+      "version": "1.0 Release",
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
+    },
+    {
+      "id": "test.sports.app",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.tasks/",
+      "title": "Спорт (Test)",
+      "screenshots": [],
+      "author": "test author",
+      "description": "test description",
+      "icon_url": "loggo.jpg",
+      "size": "7.6 MB",
+      "category": "sports",
+      "version": "1.0 Release",
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
+    },
+    {
+      "id": "test.business.app",
+      "base_url": "http://canary.millenniummarket.ru/apps/simple.tasks/",
+      "title": "Бизнес (Test)",
+      "screenshots": [],
+      "author": "test author",
+      "description": "test description",
+      "icon_url": "loggo.jpg",
+      "size": "7.6 MB",
+      "category": "business",
+      "version": "1.0 Release",
+      "download_url": "http://canary.millenniummarket.ru/apps/simple.tasks/SimpleTasks_1-0.xap"
     }
   ]
 }
