@@ -128,6 +128,7 @@
       "id": "test.winarchive",
       "base_url": "http://canary.millenniummarket.ru/apps/winarchive/",
       "os": "W10M",
+      "min_ver": "1501",
       "title": "WinArchive (Test)",
       "screenshots": [],
       "author": "test author",
@@ -136,12 +137,14 @@
       "size": "7.6 MB",
       "category": "store",
       "version": "1.0 Release",
-      "download_url": "http://canary.millenniummarket.ru/apps/winarchive/WinArchive_1.1.0.0_arm.appxbundle"
+      "download_url": "http://canary.millenniummarket.ru/apps/winarchive/WinArchive_1.1.0.0_arm.appxbundle",
+      "cer_url": "http://canary.millenniummarket.ru/apps/o.vk/123.cer"
     },
     {
       "id": "test.bluesky.browser",
       "base_url": "http://canary.millenniummarket.ru/apps/bluesky.browser/",
       "os": "W10M",
+      "min_ver": "1703",
       "title": "Bluesky (Test)",
       "screenshots": [],
       "author": "test author",
@@ -150,7 +153,8 @@
       "size": "7.6 MB",
       "category": "tools",
       "version": "2.1805.14.2",
-      "download_url": "http://canary.millenniummarket.ru/apps/bluesky.browser/GrayBlueSky_Project_2.1805.14.2_ARM.appx"
+      "download_url": "http://canary.millenniummarket.ru/apps/bluesky.browser/GrayBlueSky_Project_2.1805.14.2_ARM.appx",
+      "cer_url": "http://canary.millenniummarket.ru/apps/o.vk/123.cer"
     },
     {
       "id": "test.o.vk",
@@ -160,11 +164,12 @@
       "screenshots": [],
       "author": "test author",
       "description": "test description",
-      "icon_url": "logo.png",
+      "icon_url": "logo.jpg",
       "size": "7.6 MB",
       "category": "social",
       "version": "1.0 Release",
-      "download_url": "http://canary.millenniummarket.ru/apps/o.vk/OpenVK_1.0.16.0_arm.appxbundle"
+      "download_url": "http://canary.millenniummarket.ru/apps/o.vk/OpenVK_1.0.16.0_arm.appxbundle",
+      "cer_url": "http://canary.millenniummarket.ru/apps/o.vk/123.cer"
     }
   ]
 }
