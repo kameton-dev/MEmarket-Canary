@@ -1,0 +1,32 @@
+{
+  "id": "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}",
+  "title": "SimpleNotes",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleNotes_1-1-SGU1_RU.xap"
+    },
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleNotes_WinR_1-0.appx"
+    }
+  ],
+  "app_url": "http://canary.milliummarket.ru/metadata/simple.notes/",
+  "screenshots": [
+    "screenshots/screenshot1.png",
+    "screenshots/screenshot2.png",
+    "screenshots/screenshot3.png"
+  ],
+  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "summary": "Простое приложение заметок",
+  "creator": "kameton.dev",
+  "category": "tools"
+}

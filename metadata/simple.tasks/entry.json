@@ -1,0 +1,23 @@
+{
+  "id": "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}",
+  "title": "SimpleTasks",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleTasks_1-0.xap"
+    }
+  ],
+  "app_url": "http://canary.milliummarket.ru/metadata/simple.tasks/",
+  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "summary": "Простая напоминалка для планов и задач",
+  "creator": "kameton.dev",
+  "category": "tools"
+}

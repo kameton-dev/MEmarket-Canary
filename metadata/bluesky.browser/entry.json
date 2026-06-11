@@ -1,0 +1,20 @@
+{
+  "id": "59169Willpowersystems.BlueSkyBrowser",
+  "title": "BlueSky Edge",
+  "capabilities": [
+    "internetClient",
+    "location"
+  ],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "2.1805.14.2",
+      "app_file": "GrayBlueSky_Project_2.1805.14.2_ARM.appx"
+    }
+  ],
+  "app_url": "http://canary.milliummarket.ru/metadata/bluesky.browser/",
+  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "summary": "Test summary",
+  "creator": "создатель1, создатель2, создатель3",
+  "category": "tools"
+}

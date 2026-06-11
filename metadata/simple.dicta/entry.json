@@ -1,0 +1,29 @@
+{
+  "id": "{91a39795-a77f-4868-b96d-2090c829f068}",
+  "title": "SimpleDictaphone",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MICROPHONE"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleDictaphone_Release_AnyCPU.xap"
+    }
+  ],
+  "app_url": "http://canary.milliummarket.ru/metadata/simple.dicta/",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "summary": "Приложение диктафона с поддержкой сохранения записей",
+  "creator": "kameton.dev",
+  "category": "tools"
+}
