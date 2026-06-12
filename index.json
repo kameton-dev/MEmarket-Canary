@@ -8,7 +8,7 @@
       "latest_version": "2.1805.14.2",
       "title": "BlueSky Edge",
       "app_type": "uwp",
-      "app_url": "http://canary.milliummarket.ru/metadata/bluesky.browser/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/bluesky.browser/",
       "icon": null,
       "summary": "Test summary",
       "category": "tools"
@@ -17,7 +17,7 @@
       "latest_version": "1.0.16.0",
       "title": "OpenVK",
       "app_type": "uwp",
-      "app_url": "http://canary.milliummarket.ru/metadata/o.vk/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/o.vk/",
       "icon": null,
       "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
       "category": "social"
@@ -26,7 +26,7 @@
       "latest_version": "1.0.0.0",
       "title": "SimpleDictaphone",
       "app_type": "silverlight",
-      "app_url": "http://canary.milliummarket.ru/metadata/simple.dicta/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/simple.dicta/",
       "icon": null,
       "summary": "Приложение диктафона с поддержкой сохранения записей",
       "category": "tools"
@@ -35,7 +35,7 @@
       "latest_version": "1.0.0.0",
       "title": "SimpleNotes",
       "app_type": "silverlight",
-      "app_url": "http://canary.milliummarket.ru/metadata/simple.notes/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/simple.notes/",
       "icon": null,
       "summary": "Простое приложение заметок",
       "category": "tools"
@@ -44,7 +44,7 @@
       "latest_version": "1.0.0.0",
       "title": "SimpleTasks",
       "app_type": "silverlight",
-      "app_url": "http://canary.milliummarket.ru/metadata/simple.tasks/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/simple.tasks/",
       "icon": null,
       "summary": "Простая напоминалка для планов и задач",
       "category": "tools"
@@ -53,7 +53,7 @@
       "latest_version": "1.1.0.0",
       "title": "WinArchive",
       "app_type": "uwp",
-      "app_url": "http://canary.milliummarket.ru/metadata/winarchive/",
+      "app_url": "http://canary.millenniummarket.ru/metadata/winarchive/",
       "icon": null,
       "summary": "WinArchive/Windows Store - магазин приложений под Windows 10 mobile начиная с первых сборок.",
       "category": "store"
