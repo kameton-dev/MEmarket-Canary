@@ -1,9 +1,18 @@
 {
   "repo_name": "MEmarket Canary",
   "creator": "kameton.dev",
-  "last_updated": "06-12-2026",
+  "last_updated": "06-14-2026",
   "format": 1,
   "packages": {
+    "2dcfeda8-9772-4658-8c54-853732751c6f": {
+      "latest_version": "2.1.1.0",
+      "title": "Avito",
+      "app_type": "winrt",
+      "app_url": "http://canary.millenniummarket.ru/metadata/avito.cmp/",
+      "icon": "icon.png",
+      "summary": "Test summary",
+      "category": "tools"
+    },
     "59169Willpowersystems.BlueSkyBrowser": {
       "latest_version": "2.1805.14.2",
       "title": "BlueSky Edge",

@@ -1,0 +1,23 @@
+{
+  "id": "2dcfeda8-9772-4658-8c54-853732751c6f",
+  "title": "Avito",
+  "capabilities": [
+    "internetClient",
+    "picturesLibrary",
+    "internetClientServer",
+    "privateNetworkClientServer"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "2.1.1.0",
+      "app_file": "Avito_2.1.1.0_ARM.appx"
+    }
+  ],
+  "app_url": "http://canary.millenniummarket.ru/metadata/avito.cmp/",
+  "icon": "icon.png",
+  "description": "Test .appx app package",
+  "summary": "Test summary",
+  "creator": "cmp",
+  "category": "tools"
+}
