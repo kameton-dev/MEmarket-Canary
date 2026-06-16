@@ -1,6 +1,7 @@
 {
   "id": "{91a39795-a77f-4868-b96d-2090c829f068}",
   "title": "SimpleDictaphone",
+  "icon": "icon.jpg",
   "capabilities": [
     "ID_CAP_NETWORKING",
     "ID_CAP_MEDIALIB_AUDIO",

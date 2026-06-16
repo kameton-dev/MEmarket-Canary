@@ -1,6 +1,7 @@
 {
   "id": "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}",
   "title": "SimpleNotes",
+  "icon": "icon.jpg",
   "capabilities": [
     "ID_CAP_NETWORKING",
     "ID_CAP_MEDIALIB_AUDIO",

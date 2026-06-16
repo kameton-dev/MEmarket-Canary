@@ -1,6 +1,7 @@
 {
   "id": "778f72ea-955f-46ed-8985-ee848bd07faf",
   "title": "OpenVK",
+  "icon": "icon.png",
   "capabilities": [
     "internetClient",
     "backgroundMediaPlayback"

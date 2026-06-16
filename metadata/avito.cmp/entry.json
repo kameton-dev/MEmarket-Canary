@@ -1,6 +1,7 @@
 {
   "id": "2dcfeda8-9772-4658-8c54-853732751c6f",
   "title": "Avito",
+  "icon": "icon.png",
   "capabilities": [
     "internetClient",
     "picturesLibrary",
@@ -15,7 +16,6 @@
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/avito.cmp/",
-  "icon": "icon.png",
   "description": "Test .appx app package",
   "summary": "Test summary",
   "creator": "cmp",

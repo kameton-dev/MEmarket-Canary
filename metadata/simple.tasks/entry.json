@@ -1,6 +1,7 @@
 {
   "id": "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}",
   "title": "SimpleTasks",
+  "icon": "icon.jpg",
   "capabilities": [
     "ID_CAP_NETWORKING",
     "ID_CAP_MEDIALIB_AUDIO",

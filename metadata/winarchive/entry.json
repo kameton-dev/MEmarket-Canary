@@ -1,6 +1,7 @@
 {
   "id": "a2113baf-a42d-44fd-8f4c-2811b7f90245",
   "title": "WinArchive",
+  "icon": "icon.png",
   "capabilities": [
     "internetClient",
     "privateNetworkClientServer",

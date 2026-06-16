@@ -1,7 +1,7 @@
 {
-  "repo_name": "MEmarket Canary",
-  "creator": "kameton.dev",
-  "last_updated": "06-14-2026",
+  "repo_name": "My Repository",
+  "creator": "Unknown",
+  "last_updated": "06-17-2026",
   "format": 1,
   "packages": {
     "2dcfeda8-9772-4658-8c54-853732751c6f": {
@@ -18,7 +18,7 @@
       "title": "BlueSky Edge",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/bluesky.browser/",
-      "icon": null,
+      "icon": "icon.png",
       "summary": "Test summary",
       "category": "tools"
     },
@@ -27,7 +27,7 @@
       "title": "OpenVK",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/o.vk/",
-      "icon": null,
+      "icon": "icon.png",
       "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
       "category": "social"
     },
@@ -36,7 +36,7 @@
       "title": "SimpleDictaphone",
       "app_type": "silverlight",
       "app_url": "http://canary.millenniummarket.ru/metadata/simple.dicta/",
-      "icon": null,
+      "icon": "icon.jpg",
       "summary": "Приложение диктафона с поддержкой сохранения записей",
       "category": "tools"
     },
@@ -45,7 +45,7 @@
       "title": "SimpleNotes",
       "app_type": "silverlight",
       "app_url": "http://canary.millenniummarket.ru/metadata/simple.notes/",
-      "icon": null,
+      "icon": "icon.jpg",
       "summary": "Простое приложение заметок",
       "category": "tools"
     },
@@ -54,7 +54,7 @@
       "title": "SimpleTasks",
       "app_type": "silverlight",
       "app_url": "http://canary.millenniummarket.ru/metadata/simple.tasks/",
-      "icon": null,
+      "icon": "icon.jpg",
       "summary": "Простая напоминалка для планов и задач",
       "category": "tools"
     },
@@ -63,7 +63,7 @@
       "title": "WinArchive",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/winarchive/",
-      "icon": null,
+      "icon": "icon.png",
       "summary": "WinArchive/Windows Store - магазин приложений под Windows 10 mobile начиная с первых сборок.",
       "category": "store"
     }
