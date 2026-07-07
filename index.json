@@ -1,7 +1,7 @@
 {
   "repo_name": "My Repository",
   "creator": "Unknown",
-  "last_updated": "06-17-2026",
+  "last_updated": "07-07-2026",
   "format": 1,
   "packages": {
     "2dcfeda8-9772-4658-8c54-853732751c6f": {
@@ -18,27 +18,21 @@
       "title": "BlueSky Edge",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/bluesky.browser/",
-      "icon": "icon.png",
-      "summary": "Test summary",
-      "category": "tools"
+      "icon": "icon.png"
     },
     "778f72ea-955f-46ed-8985-ee848bd07faf": {
       "latest_version": "1.0.16.0",
       "title": "OpenVK",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/o.vk/",
-      "icon": "icon.png",
-      "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
-      "category": "social"
+      "icon": "icon.png"
     },
     "{91a39795-a77f-4868-b96d-2090c829f068}": {
       "latest_version": "1.0.0.0",
       "title": "SimpleDictaphone",
       "app_type": "silverlight",
       "app_url": "http://canary.millenniummarket.ru/metadata/simple.dicta/",
-      "icon": "icon.jpg",
-      "summary": "Приложение диктафона с поддержкой сохранения записей",
-      "category": "tools"
+      "icon": "icon.jpg"
     },
     "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}": {
       "latest_version": "1.0.0.0",
@@ -59,7 +53,7 @@
       "category": "tools"
     },
     "a2113baf-a42d-44fd-8f4c-2811b7f90245": {
-      "latest_version": "1.1.0.0",
+      "latest_version": "1.1.3.0",
       "title": "WinArchive",
       "app_type": "uwp",
       "app_url": "http://canary.millenniummarket.ru/metadata/winarchive/",

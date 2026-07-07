@@ -22,9 +22,5 @@
     "screenshots/1.png",
     "screenshots/2.png",
     "screenshots/3.png"
-  ],
-  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
-  "summary": "Приложение диктафона с поддержкой сохранения записей",
-  "creator": "kameton.dev",
-  "category": "tools"
+  ]
 }
