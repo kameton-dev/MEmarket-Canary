@@ -21,12 +21,16 @@
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/simple.notes/",
+  "banner": "banner.png",
   "screenshots": [
     "screenshots/screenshot1.png",
     "screenshots/screenshot2.png",
     "screenshots/screenshot3.png"
   ],
-  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
   "summary": "Простое приложение заметок",
   "creator": "kameton.dev",
   "category": "tools"

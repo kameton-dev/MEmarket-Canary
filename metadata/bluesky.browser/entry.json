@@ -6,6 +6,7 @@
     "internetClient",
     "location"
   ],
+  "minimum_version": "10.0.10586.0",
   "app_type": "uwp",
   "versions": [
     {
@@ -13,5 +14,14 @@
       "app_file": "GrayBlueSky_Project_2.1805.14.2_ARM.appx"
     }
   ],
-  "app_url": "http://canary.millenniummarket.ru/metadata/bluesky.browser/"
+  "app_url": "http://canary.millenniummarket.ru/metadata/bluesky.browser/",
+  "banner": "banner.png",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "",
+    "ru": ""
+  }
 }

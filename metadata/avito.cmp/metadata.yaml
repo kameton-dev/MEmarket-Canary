@@ -1,4 +1,6 @@
-summary: "Test summary"
+summary:
+  en: "Test multilanguage summary"
+  ru: "Тест кр. описания на разных языках"
 
 creator: "cmp"
 

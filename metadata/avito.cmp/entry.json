@@ -16,8 +16,14 @@
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/avito.cmp/",
-  "description": "Test .appx app package",
-  "summary": "Test summary",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Test multilanguage summary",
+    "ru": "Тест кр. описания на разных языках"
+  },
   "creator": "cmp",
   "category": "tools"
 }

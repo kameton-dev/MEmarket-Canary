@@ -18,9 +18,17 @@
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/simple.dicta/",
+  "banner": "banner.png",
   "screenshots": [
     "screenshots/1.png",
     "screenshots/2.png",
     "screenshots/3.png"
-  ]
+  ],
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": "проверка кр описания без разделения на языки",
+  "creator": "idk",
+  "category": "kkkk"
 }

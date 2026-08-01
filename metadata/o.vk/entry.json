@@ -6,6 +6,7 @@
     "internetClient",
     "backgroundMediaPlayback"
   ],
+  "minimum_version": "10.0.10586.0",
   "app_type": "uwp",
   "versions": [
     {
@@ -13,5 +14,16 @@
       "app_file": "OpenVK_1.0.16.0_arm.appxbundle"
     }
   ],
-  "app_url": "http://canary.millenniummarket.ru/metadata/o.vk/"
+  "app_url": "http://canary.millenniummarket.ru/metadata/o.vk/",
+  "banner": "banner.jpg",
+  "description": {
+    "en": "**OpenVK is a universal tool for finding people you know, based on the VKontakte structure.**\n\nWe want friends, fellow students, former classmates, neighbors, and colleagues to always be able to stay in touch.\n\nWith this app, you can:\n\n- Find people you have studied, worked, or spent time with in the past.\n- Learn more about the people around you and make new friends.\n- Stay in touch with those who matter to you.\n- Promote your creative work and/or share your views.",
+    "ru": "**OpenVK - универсальное средство поиска коллег основанное на структуре ВКонтакте.**\n\nМы хотим, чтобы друзья, однокурсники, одноклассники, соседи и коллеги всегда могли быть в контакте.\n\nС помощью этого приложения Вы можете:\n\n- Найти людей, с которыми Вы когда-либо учились, работали или отдыхали.\n- Узнать больше о людях, которые Вас окружают, и найти новых друзей.\n- Всегда оставаться в контакте с теми, кто Вам дорог.\n- Продвигать своё творчество и/или мнение.\n"
+  },
+  "summary": {
+    "en": "a universal tool for finding colleagues based on the VKontakte structure",
+    "ru": "универсальное средство поиска коллег основанное на структуре ВКонтакте"
+  },
+  "creator": "zemonkamin",
+  "category": "social"
 }

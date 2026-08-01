@@ -27,6 +27,7 @@
     "packageQuery",
     "proximity"
   ],
+  "minimum_version": "10.0.10586.0",
   "app_type": "uwp",
   "versions": [
     {
@@ -39,8 +40,15 @@
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/winarchive/",
-  "description": "**Возможности:**\n\n  -  публикация приложений и их данных\n  -  просмотр приложений на сайте или в магазине\n  -  скачивание файлов приложений на сайте и установка в магазине\n  -  установка зависимостей в магазине\n  -  писать комментарии\n  -  оценивать приложения\n  -  входить в аккаунт\n\n**Баг фикс обновления 1.1.0 WinArchive**\n\n<u>Сделано:</u>\n- измененно доменное имя\n- скоро заработает вход в аккаунт (в ближайшие дни)\n\nЕсли что, это не полноценное обновление, тк новых функций никаких не было добавлено, только исправления критических ошибок.\n\n**Удачи!** ",
-  "summary": "WinArchive/Windows Store - магазин приложений под Windows 10 mobile начиная с первых сборок.",
+  "banner": "banner.jpg",
+  "description": {
+    "en": "**Features:**\n\n  -  publishing applications and their data\n  -  viewing applications on the website or in the store\n  -  downloading application files from the website and installing them via the store\n  -  installing dependencies via the store\n  -  posting comments\n  -  rating applications\n  -  logging into your account\n\n**WinArchive Update 1.1.0 (Bug Fixes)**\n\n<u>Changes made:</u>\n- domain name changed\n- account login coming soon (in the next few days)\n\nJust a note: this isn't a major update, as no new features were added—only critical bug fixes.\n\n**Good luck!**",
+    "ru": "**Возможности:**\n\n  -  публикация приложений и их данных\n  -  просмотр приложений на сайте или в магазине\n  -  скачивание файлов приложений на сайте и установка в магазине\n  -  установка зависимостей в магазине\n  -  писать комментарии\n  -  оценивать приложения\n  -  входить в аккаунт\n\n**Баг фикс обновления 1.1.0 WinArchive**\n\n<u>Сделано:</u>\n- измененно доменное имя\n- скоро заработает вход в аккаунт (в ближайшие дни)\n\nЕсли что, это не полноценное обновление, тк новых функций никаких не было добавлено, только исправления критических ошибок.\n\n**Удачи!** "
+  },
+  "summary": {
+    "en": "WinArchive/Windows Store is an app store for Windows 10 Mobile, available since the earliest builds.",
+    "ru": "WinArchive/Windows Store - магазин приложений под Windows 10 mobile начиная с первых сборок."
+  },
   "creator": "Zemonkamin, modyle, SwellLobster338 и др.",
   "category": "store"
 }
