@@ -1,7 +1,7 @@
 {
   "repo_name": "My Repository",
   "creator": "Unknown",
-  "last_updated": "08-01-2026",
+  "last_updated": "08-16-2026",
   "format": 1,
   "packages": {
     "2dcfeda8-9772-4658-8c54-853732751c6f": {
@@ -27,6 +27,18 @@
         "ru": ""
       },
       "banner": "banner.png"
+    },
+    "b10f220f-b06f-4852-ac7b-6c6575a88ce7": {
+      "latest_version": "0.0.1.2",
+      "title": "MEmarket",
+      "app_type": "winrt",
+      "app_url": "http://canary.millenniummarket.ru/metadata/me.market.legacy/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Test multilanguage summary",
+        "ru": "Тест кр. описания на разных языках"
+      },
+      "category": "tools"
     },
     "778f72ea-955f-46ed-8985-ee848bd07faf": {
       "latest_version": "1.0.16.0",

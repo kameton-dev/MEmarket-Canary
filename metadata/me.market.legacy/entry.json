@@ -1,21 +1,18 @@
 {
-  "id": "2dcfeda8-9772-4658-8c54-853732751c6f",
-  "title": "Avito",
+  "id": "b10f220f-b06f-4852-ac7b-6c6575a88ce7",
+  "title": "MEmarket",
   "icon": "icon.png",
   "capabilities": [
-    "internetClient",
-    "picturesLibrary",
-    "internetClientServer",
-    "privateNetworkClientServer"
+    "internetClientServer"
   ],
   "app_type": "winrt",
   "versions": [
     {
-      "version": "2.1.1.0",
-      "app_file": "Avito_2.1.1.0_ARM.appx"
+      "version": "0.0.1.2",
+      "app_file": "MEmarket_0.0.1.2_AnyCPU.appx"
     }
   ],
-  "app_url": "http://canary.millenniummarket.ru/metadata/avito.cmp/",
+  "app_url": "http://canary.millenniummarket.ru/metadata/me.market.legacy/",
   "description": "Test .appx app package",
   "summary": {
     "en": "Test multilanguage summary",
