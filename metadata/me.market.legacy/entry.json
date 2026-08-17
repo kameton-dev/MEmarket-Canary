@@ -8,16 +8,20 @@
   "app_type": "winrt",
   "versions": [
     {
+      "version": "0.0.2.0",
+      "app_file": "MEmarket_0.0.2.0_AnyCPU.appxbundle"
+    },
+    {
       "version": "0.0.1.2",
       "app_file": "MEmarket_0.0.1.2_AnyCPU.appx"
     }
   ],
   "app_url": "http://canary.millenniummarket.ru/metadata/me.market.legacy/",
-  "description": "Test .appx app package",
+  "description": "Test .appx app package - 0.0.1.2\n\nTest .appxbundle app package - 0.0.2.0",
   "summary": {
     "en": "Test multilanguage summary",
     "ru": "Тест кр. описания на разных языках"
   },
-  "creator": "cmp",
+  "creator": "test",
   "category": "tools"
 }

@@ -1,7 +1,7 @@
 {
   "repo_name": "My Repository",
   "creator": "Unknown",
-  "last_updated": "08-16-2026",
+  "last_updated": "08-17-2026",
   "format": 1,
   "packages": {
     "2dcfeda8-9772-4658-8c54-853732751c6f": {
@@ -29,7 +29,7 @@
       "banner": "banner.png"
     },
     "b10f220f-b06f-4852-ac7b-6c6575a88ce7": {
-      "latest_version": "0.0.1.2",
+      "latest_version": "0.0.2.0",
       "title": "MEmarket",
       "app_type": "winrt",
       "app_url": "http://canary.millenniummarket.ru/metadata/me.market.legacy/",
